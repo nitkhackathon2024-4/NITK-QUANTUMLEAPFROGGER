@@ -11,3 +11,4 @@ we have created a model which detect financial anomalies in dataset by a hybrid 
 PLEASE USE tensorflow version 2.11.0 and kerasversion 2.12.0 and also downgrade the python to 3.10 or lower.Please ensure that the csv fiiles in correct format containing only the time,amount and label as the columns. Also please lookout for protobuf package errror which might require a lower version.
 
 ## References
+we used ai to debug and sometimes generate a code sometimes where we couldnt code with the example being application of QFT.
