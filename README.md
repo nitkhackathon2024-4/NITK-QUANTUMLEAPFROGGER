@@ -1,4 +1,8 @@
 ## College Name - Team Name
+team memeber 1 name: malla anirudh
+team memeber 2 name: daksh singh
+team member 3 name: anumolu chidrup
+
 NITK-QUANTUMLEAPFROGGER
 
 ## Problem Statement
