@@ -1,7 +1,7 @@
 ## College Name - Team Name
-team memeber 1 name: malla anirudh
-team memeber 2 name: daksh singh
-team member 3 name: anumolu chidrup
+Team memeber 1 name: Malla Anirudh</br>
+Team memeber 2 name: Daksh Singh</br>
+Team member 3 name: Anumolu Chidrup</br>
 
 NITK-QUANTUMLEAPFROGGER
 
